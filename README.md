@@ -122,17 +122,50 @@ sudo python3 spectorstrike.py
   <code><b>LOGS:</b> [SYSTEM] [09:42:10] Waiting for BLE Target Acquisition... [SCANNING]</code>
 </div>
 
-## ⚠️ OPERATIONAL WARNING & LEGAL
-> LEGAL NOTICE: This framework is engineered for authorized cybersecurity auditing and educational research. Unauthorized use against private devices is a violation of `international wireless communication laws.` The developer is not responsible for any tactical misuse.
-> 
-<p align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Drect%26color%3Dff0000%26height%3D40%26section%3Dfooter%26text%3DTHE%2520DIGITAL%2520PHANTOM%2520IS%2520WATCHING%26fontSize%3D18%26fontColor%3Dffffff" width="100%" />
-</p>
+---
+
+## ⚠️ OPERATIONAL WARNING & LEGAL PROTOCOL
+> **CLASSIFICATION:** `EXTREME RISK` | **JURISDICTION:** `INTERNATIONAL WIRELESS LAW`
+
 <div align="center">
-<sub>Developed by <b>Karndeep Baror</b> | Powered by <b>Cryptonic Area Security</b></sub>
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MADE_IN_SHADOWS-2026-black%3Fstyle%3Dflat-square" />
+<table border="0">
+<tr>
+<td>
+<img src="https://img.shields.io/badge/WARNING-CRITICAL_INFRASTRUCTURE-red?style=for-the-badge&logo=generic-shared" />
+<br><br>
+This framework, <b>SPECTER STRIKE</b>, is engineered exclusively for authorized cybersecurity auditing, penetration testing, and advanced educational research. Accessing or disrupting private wireless devices without explicit prior consent is a violation of <b>International Wireless Communication Laws</b>. 
+<br><br>
+The developer, <b>Karndeep Baror</b>, and <b>Cryptonic Area Security</b> provide this tool as-is. We assume <u>ZERO LIABILITY</u> for any tactical misuse, data loss, or legal consequences resulting from the deployment of this engine.
+<br><br>
+<i>"The power of the Phantom must be wielded with absolute responsibility."</i>
+</td>
+</tr>
+</table>
 </div>
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=ff0000&height=50&section=footer&text=SYSTEM%20OFFLINE%20:%20THE%20DIGITAL%20PHANTOM%20IS%20WATCHING&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%" />
+</p>
+
+<div align="center">
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/DEVELOPED_BY-KARNDEEP_BAROR-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/POWERED_BY-CRYPTONIC_AREA_SECURITY-red?style=for-the-badge&logo=shield&logoColor=white" />
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/MADE_IN_SHADOWS-2026-000000?style=flat-square&logo=ghost&logoColor=red" />
+    <img src="https://img.shields.io/badge/SECURE_BY_DESIGN-VERIFIED-00ff00?style=flat-square&logo=checkmarx&logoColor=white" />
+    <img src="https://img.shields.io/badge/STATUS-ENCRYPTED-blue?style=flat-square&logo=data-dog&logoColor=white" />
+  </p>
+  
+  <br>
+  <sub>© 2026 SPECTER-STRIKE | ALL RIGHTS RESERVED | VERSION 4.0.0-PHANTOM</sub>
+</div>
+
+
 -----
+
