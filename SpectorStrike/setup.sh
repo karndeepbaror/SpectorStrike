@@ -27,7 +27,7 @@ cat << "EOF"
            S T R I K E  -  S E T U P  V 1.0
 EOF
 echo -e "${NC}"
-echo -e "${CYAN}Developer: ${WHITE}${DEV_NAME}${NC}"
+echo -e "${CYAN}Developer: ${WHITE} Karndeep Baror{NC}"
 echo -e "${YELLOW}Tagline: ${WHITE}The Digital Phantom That Strikes Without Warning.${NC}"
 echo -e "${BLUE}--------------------------------------------------${NC}"
 
