@@ -54,8 +54,47 @@ Execute targeted signal manipulation to disrupt or audit proximity-based service
 
 ---
 
+<div align="center">
+
+| ⚡ SIGNAL OVERRIDE | 🛠️ GATT SHADOWING |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/JAMMING-ACTIVE-red?style=flat-square" /><br>Channel Saturation & Disconnection | <img src="https://img.shields.io/badge/MITM-CLONING-blue?style=flat-square" /><br>Attribute Profile Hijacking |
+
+| 🔋 BATTERY DRAIN | ⌨️ HID INJECTION |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/EXPLOIT-POWER-orange?style=flat-square" /><br>Forced Discovery Depletion | <img src="https://img.shields.io/badge/VULN-KEYBOARD-green?style=flat-square" /><br>Remote Keystroke Injection |
+
+</div>
+
+---
+
+## ☣️ ATTACK VECTORS & EXPLOIT DB
+> **DATABASE STATUS:** `SYNCHRONIZED` | **THREATS:** `4 CRITICAL`
+
+<div align="center">
+
+| VECTOR ID | TARGET | SEVERITY |
+| :--- | :--- | :--- |
+| `CVE-iOS-2026` | 📱 **Apple Ecosystem** | <img src="https://img.shields.io/badge/-CRITICAL-red?style=flat-square" /> |
+| `CVE-BT-AUTO` | 🏎️ **Smart Vehicles** | <img src="https://img.shields.io/badge/-HIGH-orange?style=flat-square" /> |
+| `CVE-IOT-LOCK` | 🔓 **Smart Access** | <img src="https://img.shields.io/badge/-MAX-black?style=flat-square" /> |
+| `CVE-GHOST-W` | ⌚ **Wearables** | <img src="https://img.shields.io/badge/-MEDIUM-blue?style=flat-square" /> |
+
+</div>
+
+---
+
+## 🛰️ SPECTRUM VISUALIZATION
+```mermaid
+graph LR
+    A[2.4GHz Scan] --> B{Spectrum}
+    B -- Noise --> C[Low Floor]
+    B -- Signals --> D[Target Found]
+    D -- Strike --> E((SPECTER))
+    style E fill:#ff0000,stroke:#000,stroke-width:4px
+```
 ## 🛰️ OPERATIONAL FLOW-CHART
-> This diagram illustrates the high-speed data processing and strike execution sequence of the Phantom Engine.
+> _This diagram illustrates the high-speed data processing and strike execution sequence of the Phantom Engine._
 
 
 
@@ -77,7 +116,6 @@ graph TD
 
 | COMPONENT | ACCESS LEVEL | DIRECTORY LINK |
 | :--- | :--- | :--- |
-| ⚡ **CORE WEAPON** | `ROOT` | [**/modules**](./modules) |
 | 🛡️ **TECH SPECS** | `S-TIER` | [**/specs**](./specs) |
 | 🔬 **INTEL LAB** | `CLASSIFIED` | [**/research**](./research) |
 | 📖 **MANUALS** | `OPERATIVE` | [**/docs**](./docs) |
