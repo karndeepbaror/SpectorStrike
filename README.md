@@ -105,6 +105,7 @@ graph LR
     D -- Strike --> E((SPECTER))
     style E fill:#ff0000,stroke:#000,stroke-width:4px
 ```
+
 ## 🛰️ OPERATIONAL FLOW-CHART
 > _This diagram illustrates the high-speed data processing and strike execution sequence of the Phantom Engine._
 
