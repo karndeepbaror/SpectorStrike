@@ -1,0 +1,7 @@
+# --- SPECTER STRIKE HARDWARE FINGERPRINTS ---
+# Vendor_ID | Chipset_Series | Vulnerability_Flag
+
+0x004C | Apple_W_Series | P_SPAM_VULN
+0x000F | Broadcom_BCM   | D_FLOOD_READY
+0x00D7 | Qualcomm_QCC  | S_MAP_OPEN
+0x005D | Realtek_RTL   | CONN_JAM_FIXED
