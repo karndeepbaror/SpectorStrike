@@ -1,0 +1,24 @@
+# SPECTER STRIKE: OS-SPECIFIC PROXIMITY SIGNATURES
+# This database contains the packet structures required to trigger OS-level responses.
+
+apple_continuity:
+  manufacturer_id: 0x004c
+  continuity_types:
+    - type: 0x05 # AirDrop
+    - type: 0x07 # AirPods Pro Pairing
+    - type: 0x10 # Apple TV Setup
+  payload_entropy: High
+  vulnerability_status: [EXPOSED]
+
+google_fast_pair:
+  model_id: [0xFE2C, 0xFE2B]
+  request_type: 0x00 # Discovery
+  pairing_indicator: 0x01
+  frequency_lock: 20ms
+  vulnerability_status: [AUDIT_REQUIRED]
+
+microsoft_swift_pair:
+  vendor_id: 0x0006
+  beacon_type: 0x01
+  signal_trigger: "High_Intensity_Flood"
+  vulnerability_status: [STABLE]
