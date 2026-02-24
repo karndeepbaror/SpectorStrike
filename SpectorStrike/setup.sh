@@ -24,7 +24,7 @@ cat << "EOF"
   \__ \/ /_/ / __/ / /     / / / __/ / /_/ /\__ \ 
  ___/ / ____/ /___/ /___  / / / /___/ _, _/___/ / 
 /____/_/   /_____/\____/ /_/ /_____/_/ |_|/____/  
-           S T R I K E  -  S E T U P  V 4.0
+           S T R I K E  -  S E T U P  V 1.0
 EOF
 echo -e "${NC}"
 echo -e "${CYAN}Developer: ${WHITE}${DEV_NAME}${NC}"
