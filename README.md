@@ -95,11 +95,32 @@ sudo ./setup.sh
 sudo python3 spectorstrike.py
 ```
 
-## 📊 LIVE REPO TELEMETRY
+## 📊 LIVE REPO TELEMETRY [SENSORS: ACTIVE]
+> **SYSTEM DATA:** Analyzing spectral density and protocol integrity.
+
+<div align="center">
+
+| 🛰️ MODULE SYSTEM | 📶 STATUS | ⚡ PERFORMANCE | 💠 PRIORITY |
+| :--- | :--- | :--- | :--- |
+| **PROXIMITY SCANNER** | `[ ACTIVE ]` | <img src="https://img.shields.io/badge/-98%25-green?style=flat-square" /> | `HIGH` |
+| **PACKET INJECTOR** | `[ STANDBY ]` | <img src="https://img.shields.io/badge/-READY-blue?style=flat-square" /> | `CRITICAL` |
+| **FINGERPRINT DB** | `[ SYNCED ]` | <img src="https://img.shields.io/badge/-100%25-brightgreen?style=flat-square" /> | `NORMAL` |
+| **GHOST PROTOCOL** | `[ ENABLED ]` | <img src="https://img.shields.io/badge/-ENCRYPTED-red?style=flat-square" /> | `MAX` |
+
+</div>
+
+<br>
+
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dkarndeepbaror%26repo%3DSPECTER-STRIKE%26theme%3Dradical%26show_owner%3Dtrue" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dkarndeepbaror%26layout%3Dcompact%26theme%3Dvision-friendly-dark" />
+  <img src="https://img.shields.io/badge/CORE_ENGINE-PYTHON_85%25-blue?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/AUTOMATION-BASH_10%25-black?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
+
+<div align="center">
+  <code><b>LOGS:</b> [SYSTEM] [09:42:01] Strike Sequence Loaded... [OK]</code><br>
+  <code><b>LOGS:</b> [SYSTEM] [09:42:05] Stealth Mode Handshake Initiated... [OK]</code><br>
+  <code><b>LOGS:</b> [SYSTEM] [09:42:10] Waiting for BLE Target Acquisition... [SCANNING]</code>
+</div>
 
 ## ⚠️ OPERATIONAL WARNING & LEGAL
 > LEGAL NOTICE: This framework is engineered for authorized cybersecurity auditing and educational research. Unauthorized use against private devices is a violation of `international wireless communication laws.` The developer is not responsible for any tactical misuse.
