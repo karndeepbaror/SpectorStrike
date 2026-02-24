@@ -82,6 +82,31 @@ Execute targeted signal manipulation to disrupt or audit proximity-based service
 
 </div>
 
+
+## 🛡️ ENCRYPTION & ANONYMITY PROTOCOLS
+> **ENCRYPTION:** `AES-256-GCM` | **ANONYMITY:** `MAC-SPOOFING ACTIVE`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TUNNEL-ENCRYPTED-red?style=for-the-badge&logo=tor-project&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDENTITY-HIDDEN-black?style=for-the-badge&logo=ghostery&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOGS-WIPED-00ff00?style=for-the-badge&logo=eraser&logoColor=white" />
+</p>
+
+---
+
+## 🌍 GLOBAL DEPLOYMENT SURFACE
+> **NODES:** `ACTIVE` | **NETWORK:** `MESH-NET` | **STATUS:** `UNDELETED`
+
+<div align="center">
+
+```mermaid
+pie title ATTACK SURFACE DISTRIBUTION
+    "Mobile Devices" : 45
+    "Smart Vehicles" : 25
+    "IoT Infrastructure" : 20
+    "Others" : 10
+```
+
 ---
 
 ## 🛰️ SPECTRUM VISUALIZATION
