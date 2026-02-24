@@ -1,13 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=thicket&color=000000&height=350&section=header&text=SPECTER%20STRIKE&fontSize=95&animation=fadeIn&fontAlignY=35&desc=ELITE%20BLE%20WARFARE%20FRAMEWORK&descAlignY=55&descSize=25&fontColor=ff0000" width="100%" />
+<div style="background: linear-gradient(90deg, #ff0000, #550000, #000000); padding: 50px 10px; border-radius: 15px; border: 2px solid #ff0000;">
+  <h1 align="center" style="margin: 0;">
+    <font face="Courier New" size="10" color="#ffffff">
+      <b>⚡ SPECTER STRIKE ⚡</b>
+    </font>
+  </h1>
+  <p align="center" style="margin-top: 10px;">
+    <font face="Verdana" size="4" color="#ff0000">
+      <b>≫ ELITE BLE WARFARE FRAMEWORK ≪</b>
+    </font>
+  </p>
+</div>
 
-<p>
+<br>
+
+<p align="center">
   <img src="https://img.shields.io/badge/PHANTOM_CORE-V1.0-red?style=for-the-badge&logo=ghost&logoColor=white" />
   <img src="https://img.shields.io/badge/ENCRYPTION-STRICT-black?style=for-the-badge&logo=target&logoColor=red" />
   <img src="https://img.shields.io/badge/OPERATIONAL-STEALTH-000000?style=for-the-badge&logo=linux&logoColor=00ff00" />
   <img src="https://img.shields.io/badge/LICENSE-GPL_3.0-blue?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white" />
 </p>
+
+---
+</div>
+
 
 ---
 
