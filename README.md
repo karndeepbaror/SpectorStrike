@@ -82,6 +82,7 @@ Execute targeted signal manipulation to disrupt or audit proximity-based service
 
 </div>
 
+---
 
 ## 🛡️ ENCRYPTION & ANONYMITY PROTOCOLS
 > **ENCRYPTION:** `AES-256-GCM` | **ANONYMITY:** `MAC-SPOOFING ACTIVE`
@@ -92,20 +93,6 @@ Execute targeted signal manipulation to disrupt or audit proximity-based service
   <img src="https://img.shields.io/badge/LOGS-WIPED-00ff00?style=for-the-badge&logo=eraser&logoColor=white" />
 </p>
 
----
-
-## 🌍 GLOBAL DEPLOYMENT SURFACE
-> **NODES:** `ACTIVE` | **NETWORK:** `MESH-NET` | **STATUS:** `UNDELETED`
-
-<div align="center">
-
-```mermaid
-pie title ATTACK SURFACE DISTRIBUTION
-    "Mobile Devices" : 45
-    "Smart Vehicles" : 25
-    "IoT Infrastructure" : 20
-    "Others" : 10
-```
 
 ---
 
