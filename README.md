@@ -145,9 +145,16 @@ The developer, <b>Karndeep Baror</b>, and <b>Cryptonic Area Security</b> provide
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=ff0000&height=50&section=footer&text=SYSTEM%20OFFLINE%20:%20THE%20DIGITAL%20PHANTOM%20IS%20WATCHING&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%" />
-</p>
+<div align="center">
+  <svg width="100%" height="50" viewBox="0 0 1000 50" xmlns="http://www.w3.org/2000/svg">
+    <rect width="1000" height="50" fill="#000000" rx="10"/>
+    <rect width="1000" height="5" y="45" fill="#ff0000" rx="2"/>
+    <text x="50%" y="32" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="3">
+      THE DIGITAL PHANTOM IS WATCHING
+    </text>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite" />
+  </svg>
+</div>
 
 <div align="center">
   <br>
@@ -163,9 +170,7 @@ The developer, <b>Karndeep Baror</b>, and <b>Cryptonic Area Security</b> provide
   </p>
   
   <br>
-  <sub>© 2026 SPECTER-STRIKE | ALL RIGHTS RESERVED | VERSION 4.0.0-PHANTOM</sub>
+  <sub>© 2026 SPECTER-STRIKE | ALL RIGHTS RESERVED | VERSION 1.0-PHANTOM</sub>
 </div>
 
-
------
-
+---
