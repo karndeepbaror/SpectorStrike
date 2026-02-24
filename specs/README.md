@@ -5,6 +5,7 @@
 ## 🛰️ OVERVIEW
 Welcome to the **Specter Strike Technical Core**. This directory contains the raw engineering specifications and protocol-level logic that powers the **Phantom-BLE-Engine**. Unlike standard tools, these modules are built on deep-level signal analysis and OS-specific vulnerability research.
 
+---
 
 ## 📑 COMPONENT BREAKDOWN
 
@@ -15,6 +16,7 @@ Welcome to the **Specter Strike Technical Core**. This directory contains the ra
 | 📉 **SIGNAL_TELEMETRY_LOGIC.py** | `MATHEMATICS` | Log-Distance Path Loss models for real-time target proximity calculation. |
 | 🚧 **SECURITY_HARDENING_GUIDE.md** | `DEFENSIVE OPS` | Professional countermeasures and kernel-level hardening for BLE devices. |
 
+---
 
 ## ⚙️ CORE LOGIC FLOW
 ```mermid
@@ -26,6 +28,7 @@ graph TD
     D --> E
     E --> F[Target Isolation / Jamming]
 ```
+---
 
 ## ⚠️ TECHNICAL NOTICE
 This directory is strictly for documentation and advanced configuration. Modifying the mathematical constants in `SIGNAL_TELEMETRY_LOGIC.py` may result in inaccurate target acquisition and loss of stealth.   
