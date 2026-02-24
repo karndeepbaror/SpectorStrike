@@ -12,9 +12,7 @@
     </font>
   </p>
 </div>
-
 <br>
-
 <p align="center">
   <img src="https://img.shields.io/badge/PHANTOM_CORE-V1.0-red?style=for-the-badge&logo=ghost&logoColor=white" />
   <img src="https://img.shields.io/badge/ENCRYPTION-STRICT-black?style=for-the-badge&logo=target&logoColor=red" />
@@ -24,9 +22,6 @@
 
 ---
 </div>
-
-
----
 
 ### 🌐 [ PROJECT STATUS: **ACTIVE STRIKE MODE** ]
 **SPECTER STRIKE** represents the pinnacle of wireless reconnaissance. Designed for security operatives, it exploits the fundamental weaknesses of the **Bluetooth Low Energy (BLE)** protocol stack with absolute precision.
